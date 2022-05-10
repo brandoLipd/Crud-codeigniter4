@@ -1,0 +1,20 @@
+{
+    "name": "Crud-codeigniter4-blipeda",
+    "displayName": "Crud-codeigniter4-blipeda",
+    "description": "crud codeigniter4",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "php",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
